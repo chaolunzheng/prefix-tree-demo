@@ -17,7 +17,6 @@ func main() {
 	root.Insert("abcall")
 	root.Insert("ab")
 	
-	
 	fmt.Println(root.SearchPrefix("abcd"))
 
 	fmt.Println(root.Search("abcd"))
