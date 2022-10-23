@@ -40,8 +40,7 @@ func main() {
 	fmt.Println(root.SearchPrefix("me and y"))
 	fmt.Println(root.SearchPrefix("me and you"))
 
+
 	
 }
-
-
 
