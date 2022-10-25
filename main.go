@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"demo/tree"
+	"fmt"
 )
 
 func main() {
@@ -39,8 +39,6 @@ func main() {
 	fmt.Println(root.Search("me and"))
 	fmt.Println(root.SearchPrefix("me and y"))
 	fmt.Println(root.SearchPrefix("me and you"))
-
-
 	
 }
 
